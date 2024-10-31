@@ -1,0 +1,6 @@
+# Force GitHub to recognize Dart files
+*.dart linguist-language=Dart
+
+# Ignore Makefile completely
+Makefile linguist-vendored
+Makefile linguist-detectable=false
