@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210172626435",
+    "project_id": "appdevgame-cec52",
+    "storage_bucket": "appdevgame-cec52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210172626435:android:1ae45ddd1df22a8b093036",
+        "android_client_info": {
+          "package_name": "com.example.appdev1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTi68OqGcURFARRI0Go7g-h-HN3xCA6q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
