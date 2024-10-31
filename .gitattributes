@@ -1,2 +1,2 @@
-Makefile linguist-vendored
-*.dart linguist-language=Dart
+*.dart linguist-detectable=true
+Makefile linguist-detectable=false
